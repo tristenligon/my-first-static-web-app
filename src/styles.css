@@ -3,8 +3,7 @@
 }
 
 .header {
-  padding-top: 5px;
-  padding-left: 5px;
+  padding: 5px 5px;
   text-align: left;
   background: #fff;
   color: black;
